@@ -18,7 +18,6 @@ Basic Flow-
 
 7)Checks have been applied i.e they cannot update their batch in the middle of the month.
 
-Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
 
 # How to run the application on localhost-
 
@@ -34,3 +33,6 @@ Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
 1)ReactJs for Frontend.
 2)Nodejs, Express for Backend.
 3)MongoDb(NoSQL) for database.
+
+
+## Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
