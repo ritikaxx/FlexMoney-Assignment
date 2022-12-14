@@ -5,9 +5,9 @@ export default class Home extends Component{
 
     render() {
       return(<>
-            <h1>Welcome to our community!
+            <h2>Welcome to our community!
                 You have successfully started your first month and completed your initial payment!
-            </h1>
+            </h2>
             <Carousel>
       <Carousel.Item>
         <img
@@ -16,8 +16,8 @@ export default class Home extends Component{
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h3> Move your joints every day.</h3>
+          <p>Yoga is a light, which once lit will never dim.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -28,8 +28,8 @@ export default class Home extends Component{
         />
 
         <Carousel.Caption>
-          <h3>Second slide label</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <h3>Yoga is the ultimate practice.</h3>
+          <p>The nature of yoga is to shine the light of awareness into the darkest corners of the body.</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -40,9 +40,8 @@ export default class Home extends Component{
         />
 
         <Carousel.Caption>
-          <h3>Third slide label</h3>
           <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+          “Change only happens in the present moment. The past is already done. The future is just energy and intention.
           </p>
         </Carousel.Caption>
       </Carousel.Item>

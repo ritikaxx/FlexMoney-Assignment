@@ -13,6 +13,7 @@ import Join from './components/Join'
 import EditBatch from './components/EditBatch'
 import JoineesList from './components/JoineesList'
 import Home from './components/Home'
+import Main from './components/Main'
 
 function App() {
   return (
@@ -22,8 +23,8 @@ function App() {
           <Navbar bg="dark" variant="dark">
             <Container>
               <Navbar.Brand>
-                <Link to={'/join'} className="nav-link">
-                  HYPE Yoga Classes
+                <Link to={'/main'} className="nav-link">
+                  Yoga-Bud
                 </Link>
               </Navbar.Brand>
 
@@ -79,6 +80,11 @@ function App() {
                     exact
                     path="/home"
                     component={(props) => <Home {...props} />}
+                  />
+                  <Route
+                    exact
+                    path="/main"
+                    component={(props) => <Main{...props} />}
                   />
                 </Switch>
               </div>
