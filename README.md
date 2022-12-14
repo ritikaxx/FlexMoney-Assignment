@@ -20,7 +20,7 @@ Basic Flow-
 
 Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
 
-# How to run the application localhost-
+# How to run the application on localhost-
 
 1) Git clone this repo.
 2) cd FlexMoney-Assignment.
@@ -28,3 +28,9 @@ Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
 4) cd Backend -> nodemon (to start the server on port 4000).
 
 5)The site will be open on PORT 3000(loclhost:3000/).
+
+# Technologies used-
+
+1)ReactJs for Frontend.
+2)Nodejs, Express for Backend.
+3)MongoDb(NoSQL) for database.
