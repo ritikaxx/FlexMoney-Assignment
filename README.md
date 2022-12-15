@@ -34,5 +34,17 @@ Basic Flow-
 2)Nodejs, Express for Backend.
 3)MongoDb(NoSQL) for database.
 
+## REGISTRATION PAGE-
+![image](https://user-images.githubusercontent.com/68536395/207770007-5c6154a3-d150-4ff0-bea9-2282d06e13ea.png)
+
+## WELCOME PAGE-
+![image](https://user-images.githubusercontent.com/68536395/207770108-6c9cb666-89e7-49ab-89a5-37ca63f51ccf.png)
+
+## ALL JOINEES PAGE-
+![image](https://user-images.githubusercontent.com/68536395/207770180-5ae07594-bcfe-44b2-8068-bc505873924c.png)
+
+## EDIT BATCH-
+![image](https://user-images.githubusercontent.com/68536395/207770221-044c7f09-2f42-490b-99da-462a6dc4bbdc.png)
+
 
 ## Live site-  https://63995f8e8095c573f574e579--zesty-kangaroo-ed5413.netlify.app/
